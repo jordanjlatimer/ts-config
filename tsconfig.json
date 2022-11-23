@@ -5,6 +5,7 @@
     "esModuleInterop": true,
     "target": "ES2015",
     "skipLibCheck": true,
-    "declaration": true
+    "declaration": true,
   },
+  "include": ["src"]
 }
