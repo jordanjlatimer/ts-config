@@ -6,6 +6,6 @@
     "target": "ES2015",
     "skipLibCheck": true,
     "declaration": true,
-  },
-  "include": ["src"]
+    "moduleResolution": "node"
+  }
 }
