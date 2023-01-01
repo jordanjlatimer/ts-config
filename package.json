@@ -12,5 +12,12 @@
   "bugs": {
     "url": "https://github.com/jordanjlatimer/ts-config/issues"
   },
-  "homepage": "https://github.com/jordanjlatimer/ts-config#readme"
+  "homepage": "https://github.com/jordanjlatimer/ts-config#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ]
 }
